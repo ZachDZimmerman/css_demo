@@ -1,0 +1,22 @@
+body{
+  background-color: gray;
+}
+p {
+  background-color: black;
+  font-size: 14px;
+  color: white;
+}
+p + p + p{
+  background-color: red;
+}
+nav {
+  font-size: 32px;
+  text-align: center;
+}
+header {
+  color: pink;
+  text-align: center;
+}
+article {
+
+}
